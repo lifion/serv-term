@@ -1,10 +1,11 @@
 {
-  "name": "lifion-template",
+  "name": "serv-term",
   "version": "0.0.0",
-  "description": "Lifion template for all repositories",
+  "description": "Module for gracefully terminating nodejs http server",
   "keywords": [],
   "author": "Lifion.OpenSource@ADP.com",
   "maintainers": [
+    "Mark Crisp <Mark.Crisp@ADP.com",
     "Chen Doron <Chen.Doron@ADP.com>",
     "Edgardo Avilés <Edgardo.Aviles@ADP.com>",
     "Jenny Eckstein <Jenny.Eckstein@ADP.com>",
@@ -14,12 +15,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lifion/lifion-template.git"
+    "url": "https://github.com/lifion/serv-term.git"
   },
   "bugs": {
-    "url": "https://github.com/lifion/lifion-template/issues"
+    "url": "https://github.com/lifion/serv-term/issues"
   },
-  "homepage": "https://github.com/lifion/lifion-template#readme",
+  "homepage": "https://github.com/lifion/serv-term#readme",
   "main": "lib/index.js",
   "engines": {
     "node": ">=10.0.0"

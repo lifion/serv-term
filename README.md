@@ -1,13 +1,13 @@
-# lifion-template
+# serv-term
 
-[![npm version](https://badge.fury.io/js/lifion-template.svg)](http://badge.fury.io/js/lifion-template)
+[![npm version](https://badge.fury.io/js/serv-term.svg)](http://badge.fury.io/js/serv-term)
 
 ## Getting Started
 
 To install the module:
 
 ```sh
-npm install lifion-template --save
+npm install serv-term --save
 ```
 
 ## Features
