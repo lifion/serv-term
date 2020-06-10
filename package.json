@@ -31,12 +31,14 @@
     "eslint": "eslint . --ext .js,.json --ignore-pattern='!.*.*'",
     "format": "prettier --write '**/*.{md,js,json}' '!coverage/**/*.{js,json}'",
     "prepare": "check-engines",
-    "test": "jest -c ./.jest.json",
+    "test": "jest -c ./.jest.json --detectOpenHandles",
     "version": "auto-changelog -p && git add CHANGELOG.md"
   },
   "dependencies": {},
   "devDependencies": {
+    "agentkeepalive": "^4.1.2",
     "auto-changelog": "^1.16.4",
+    "axios": "^0.19.2",
     "chalk": "^3.0.0",
     "check-engines": "^1.5.0",
     "codecov": "^3.7.0",
@@ -47,8 +49,10 @@
     "jsdoc-to-markdown": "^6.0.1",
     "lint-staged": "^10.2.9",
     "npm-watch": "^0.6.0",
+    "pem": "^1.14.4",
     "prettier": "^1.19.1",
-    "semver": "^7.3.2"
+    "semver": "^7.3.2",
+    "sinon": "^9.0.2"
   },
   "husky": {
     "hooks": {
