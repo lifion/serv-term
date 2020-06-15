@@ -51,8 +51,7 @@
     "npm-watch": "^0.6.0",
     "pem": "^1.14.4",
     "prettier": "^1.19.1",
-    "semver": "^7.3.2",
-    "sinon": "^9.0.2"
+    "semver": "^7.3.2"
   },
   "husky": {
     "hooks": {
