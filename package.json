@@ -1,6 +1,6 @@
 {
   "name": "serv-term",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Module for gracefully terminating Node.js HTTP servers.",
   "keywords": [],
   "author": "Mark Crisp <Mark.Crisp@ADP.com>",
