@@ -22,7 +22,7 @@
   "homepage": "https://github.com/lifion/serv-term#readme",
   "main": "lib/index.js",
   "engines": {
-    "node": ">=10"
+    "node": ">=v10.23.3"
   },
   "scripts": {
     "build-docs": "jsdoc2md -t ./templates/README.hbs ./lib/*.js > ./README.md && git add ./README.md",
