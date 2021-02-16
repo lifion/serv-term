@@ -1,7 +1,6 @@
 # serv-term
 
 [![npm version](https://badge.fury.io/js/serv-term.svg)](http://badge.fury.io/js/serv-term)
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flifion%2Fserv-term.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Flifion%2Fserv-term?ref=badge_shield)
 
 ## Getting Started
 
@@ -33,6 +32,3 @@ Registers connection listeners, and returns a function that when called will clo
 ## License
 
 [MIT](./LICENSE)
-
-
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flifion%2Fserv-term.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Flifion%2Fserv-term?ref=badge_large)
