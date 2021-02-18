@@ -36,7 +36,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@types/node": "^14.14.28",
+    "@types/node": "^14.14.29",
     "agentkeepalive": "^4.1.4",
     "auto-changelog": "^2.2.1",
     "axios": "^0.21.1",
