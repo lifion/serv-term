@@ -26,7 +26,7 @@ Registers connection listeners, and returns a function that when called will clo
 | Param             | Type                                                  | Description                                                   |
 | ----------------- | ----------------------------------------------------- | ------------------------------------------------------------- |
 | server            | <code>http.Server</code> \| <code>https.Server</code> | The server to be terminated                                   |
-| options           | <code>object</code>                                   | Accepts the following options                                 |
+| options           | <code>Object</code>                                   | Accepts the following options                                 |
 | [options.timeout] | <code>number</code>                                   | The duration to wait before forcefully terminating the server |
 
 ## License
