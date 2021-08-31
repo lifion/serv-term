@@ -48,7 +48,7 @@
     "codecov": "^3.8.3",
     "eslint": "^7.32.0",
     "eslint-config-lifion": "^2.1.1",
-    "husky": "^6.0.0",
+    "husky": "^7.0.2",
     "jest": "^26.6.3",
     "jsdoc-to-markdown": "^7.0.1",
     "lint-staged": "^11.1.2",
